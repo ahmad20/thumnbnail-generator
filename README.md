@@ -71,7 +71,7 @@ Use the API interface to upload a video, enter a keyword, and generate your GIF 
 ## 📝 Example Use Case
 Let’s say you have a 5-minute product demo video. You want a thumbnail that shows someone using the product. Just enter the keyword "rabbit" and the system will scan the video, find matching scenes, and generate a short GIF of the best frames.
 
-![l2-norm](assets\l2-norm.png)
+![l2-norm](assets/l2-norm.png)
 This GIF can then be used in emails, websites, or social media to boost engagement.
 
 ## 📦 Output
