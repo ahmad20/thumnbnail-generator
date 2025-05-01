@@ -87,6 +87,3 @@ Have ideas to make it better? Want to add features like MP4 output or multiple k
 - L2 norm to compare video chunk embeddings
 - Pillow (PIL) to generate GIFs
 - Made with ❤️ using Python.
-
-
-Let me know if you want this saved into a file or customized further for deployment or GitHub badges.
